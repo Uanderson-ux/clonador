@@ -1,0 +1,6 @@
+{
+  "name": "Clonador de Páginas & Editor Visual",
+  "description": "Ferramenta profissional para clonar páginas de vendas, editar textos, botões e links de checkout, adicionar pixels de rastreamento e exportar para anúncios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
